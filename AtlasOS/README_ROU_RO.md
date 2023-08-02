@@ -100,11 +100,9 @@ Oricine poate accesa kitul nostru de brand Atlas - îl puteți descărca [aici](
 
 De asemenea, avem o secțiune dedicată pe [forumul](https://forum.atlasos.net/t/art-showcase) nostru, astfel încât să puteți împărtăși creațiile dvs. cu alți genii creative și poate chiar să aprindeți puțină inspirație! Acolo veți găsi și wallpapere creative împărtășite de alți utilizatori!
 
-## ⚠️ Disclaimer ("Avertisment" în limba tradusă aici)
+## ⚠️ Avertisment
 https://github.com/Atlas-OS/Atlas/#%EF%B8%8F-disclaimer
 
 
-## Translation contributors (Translation contributor in the translated language)
-[Contributor A](https://github.com/A) |
-[Contributor B](https://github.com/B) |
-[Contributor C](https://github.com/C)
+## Contrubuitori Traduceri
+[KOzDroid-New](https://github.com/KOzDroid-New)
